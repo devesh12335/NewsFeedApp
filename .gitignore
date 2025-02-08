@@ -1,0 +1,86 @@
+# Flutter related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+.packages
+build/
+pubspec.lock
+
+# Android related
+android/.gradle/
+android/app/debug.keystore
+android/key.properties
+android/app/src/debug/
+android/app/src/profile/
+android/app/src/main/assets/flutter_assets/
+
+# iOS related
+ios/.generated/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.podspec.json
+ios/Flutter/ServiceDefinitions.json
+ios/Flutter/App.xcworkspace
+ios/Podfile.lock
+
+# Xcode related
+*.xcworkspace/
+*.xcuserdata/
+*.xcodeproj/
+
+# Web related
+web/.dart_tool/
+web/build/
+web/.firebase/
+
+# Linux related
+linux/flutter/ephemeral/
+linux/.dart_tool/
+linux/build/
+
+# MacOS related
+macos/.dart_tool/
+macos/build/
+macos/Flutter/ephemeral/
+
+# Windows related
+windows/flutter/ephemeral/
+windows/.dart_tool/
+windows/build/
+
+# IntelliJ related
+.idea/
+*.iml
+
+# VS Code related
+.vscode/
+
+# Google Cloud & Firebase related
+firebase.json
+firebase_options.dart
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/
+fastlane/test_output/
+
+# Generated Files
+*.h
+*.m
+*.lock
+*.log
+*.pyc
+*.pyo
+*.swp
+*.swo
+
+# Other
+*.DS_Store
