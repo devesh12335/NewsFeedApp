@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.devesh.news_app-mergeDebugResources-39:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/devesh/.gradle/caches/transforms-4/c4c11ad9b4b8b41e9fc769fc29c95b94/transformed/appcompat-1.6.1/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

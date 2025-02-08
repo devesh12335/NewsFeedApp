@@ -1,0 +1,1 @@
+ /run/media/devesh/New\ Volume/projects/task_manager/.dart_tool/flutter_build/40802f8d38d98078103415bb2b4a68ad/native_assets.yaml: 

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.flutter_custom_toast.custom_flutter_toast-merged_res-37:/layout-v26/mtrl_calendar_month.xml",
+        "source": "com.example.flutter_custom_toast.custom_flutter_toast-material-1.9.0-10:/layout-v26/mtrl_calendar_month.xml"
+    },
+    {
+        "merged": "com.example.flutter_custom_toast.custom_flutter_toast-merged_res-37:/layout-v26/abc_screen_toolbar.xml",
+        "source": "com.example.flutter_custom_toast.custom_flutter_toast-appcompat-1.6.1-24:/layout-v26/abc_screen_toolbar.xml"
+    }
+]
